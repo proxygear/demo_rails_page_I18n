@@ -1,24 +1,22 @@
-# README
+# DEMO
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project highlight code organization
+to get multiple landing pages for different languages.
 
-Things you may want to cover:
+We want an easy and maintainable tree of standard and specific items;
+that we can mix to create wanted layouts.
 
-* Ruby version
+## INSTALL & RUN
 
-* System dependencies
+Just run it `bundle; rails s` and checks the differents pages ...
 
-* Configuration
+## CODE TO CHEKC
 
-* Database creation
+For the html orga take a look at :
 
-* Database initialization
+* `/app/views/pages`
+* `/app/views/components`
 
-* How to run the test suite
+Also for the style orga :
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* /app/assets/stylesheets
